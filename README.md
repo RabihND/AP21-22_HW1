@@ -2,16 +2,16 @@
 <h1>
 In The Name Of God
 </h1>
-<h2>
+<b>
 Advanced Programming - Homework 1
-</h2>
-<h2>
+  </b>
+
 Dr.Amir Jahanshahi |
 <a href="https://github.com/omidrazzaghi2000">Omid Razzaghi</a>
 </br>
 <b>Student:</b>
 Rabih ND
-</h2>
+
 </center>
 
 # Introduction
@@ -22,6 +22,7 @@ The brain is complex, but can generally be divided into a small number of parts 
 operations. 
 
 ![perceptron](img/perceptron1.jpg)
+
 The nerve is the basic unit for calculations in the brain, each nerve receives and 
 integrates chemical signals from other nerves.
 
